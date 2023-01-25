@@ -1,0 +1,26 @@
+h1{
+    color:red;
+}
+.heading{
+    color: red;
+    font-style: italic;
+}
+#para1{
+    text-decoration: line-through;
+    display: inline;
+}
+#para2{
+    background-color:yellow ;
+    display: inline;
+}
+#list4{
+    font-style: italic;
+    text-decoration: underline;
+}
+.span1{
+    background-color: yellow;
+}
+#ul1{
+    word-spacing: 10px;
+    letter-spacing: 4px;
+}
