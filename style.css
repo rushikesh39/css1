@@ -1,7 +1,7 @@
-h1{
+.first-heading{
     color:red;
 }
-.heading{
+.second-heading{
     color: red;
     font-style: italic;
 }
@@ -21,6 +21,18 @@ h1{
     background-color: yellow;
 }
 #ul1{
-    word-spacing: 10px;
-    letter-spacing: 4px;
+    word-spacing: 20px;
+    letter-spacing: 2px;
+    line-height: 20px;
 }
+#nav{
+    color: red;
+    font-style: italic;
+    font-weight: 600;
+    background-color: yellow;
+    text-decoration: none;
+}
+.nav{
+    list-style: none;
+}
+
