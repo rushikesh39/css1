@@ -5,23 +5,28 @@
     color: red;
     font-style: italic;
 }
-#para1{
+#span1{
     text-decoration: line-through;
-    display: inline;
+    
 }
-#para2{
+#span2{
     background-color:yellow ;
-    display: inline;
+
 }
 #list4{
     font-style: italic;
     text-decoration: underline;
 }
-.span1{
+.order-list1{
+    line-height: 33px;
+    color: brown;
+}
+#span3{
     background-color: yellow;
 }
-#ul1{
-    word-spacing: 20px;
+.ul1{
+    color: brown;
+    word-spacing: 15px;
     letter-spacing: 2px;
     line-height: 20px;
 }
